@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+Custom admin css
+author: stefano pascazi
+author uri: www.stefanopascazi.it
+*/
+body {
+	background:#eee;
+	margin:15px 0;
+}
+
+.container {
+	background:#fff;
+	box-shadow:#aaa 0px 3px 5px 0px;
+}
+
+.blog-footer {
+	background:none;
+	border-top:none;
+}
+.force img {
+	height:100%;
+	position:relative;
+	left:-50%;
+}
+.force {
+	overflow:hidden;
+	max-height:150px;
+}
+.space {
+	padding-bottom:20px;
+}
+.navbar-inverse {
+  border-bottom: 1px solid #1682ba;
+  cursor: pointer;
+  z-index: 9999;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #ffffff;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.35);
+  background: #36aae7;
+  background: -webkit-linear-gradient(#36aae7, #1fa0e4);
+  background: -moz-linear-gradient(#36aae7, #1fa0e4);
+  background: -o-linear-gradient(#36aae7, #1fa0e4);
+  background: -ms-linear-gradient(#36aae7, #1fa0e4);
+  background: linear-gradient(#36aae7, #1fa0e4);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+.navbar-inverse .navbar-brand {
+	color:white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color:white;
+}

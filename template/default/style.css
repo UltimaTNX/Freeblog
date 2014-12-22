@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+}
+#wrapper {
+	background:#b5f2ae;
+	padding:50px 0;
+}
+.header {
+	padding-top:50px;
+	padding-bottom:100px;
+	background:#333;
+}
+.no-padding {
+	padding:0;
+}
+.right {
+	padding-top:50px;
+	text-shadow:#333 1px 1px 1px;
+}
+.right h1 a {
+	color:#f1f1f1;
+	font-size:50px;
+}
+.right p {
+	color:#f1f1f1;
+	font-size:24px;
+}
+.container {
+	background:white;
+	padding-top:15px;
+	padding-bottom:15px;
+	border-radius:10px;
+}
+.thumb {
+	border-left:#ccc 1px solid;
+}
+.blog-footer {
+	background:#333;
+	color:white;
+	border-top:none;
+}
+.thumb-single {
+	padding-right:10px;
+}
