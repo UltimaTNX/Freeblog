@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-size:2.5rem;
+	background:#f1f1f1;
+}
+
+h1 {
+	font-size:4rem;
+	color:#333;
+}
+h2 {
+	font-size:3.5rem;
+	color:#333;
+}
+h3 {
+	font-size:3rem;
+	color:#333;
+}
+
+#header {
+	background:#333;
+	color:white;
+	padding:50px 0 0 0;
+}
+
+#header h1 {
+	color:white;
+}
+
+.nav-tabs {
+	border:none;
+	margin-top:50px;
+}
+
+.nav-tabs>li.active>a {
+	background-color:#56c6ff;
+	border-color:#56c6ff;
+	cursor:initial;
+}
+
+#content {
+	padding:50px 0;
+	background:#56c6ff;
+}
+
+#designer {
+	padding:50px 0;
+}
+
+footer {
+	padding:50px 0;
+}
