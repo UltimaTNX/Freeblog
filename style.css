@@ -6,15 +6,15 @@ body {
 }
 
 h1 {
-	font-size:4rem;
+	font-size:5rem;
 	color:#333;
 }
 h2 {
-	font-size:3.5rem;
+	font-size:4.5rem;
 	color:#333;
 }
 h3 {
-	font-size:3rem;
+	font-size:4rem;
 	color:#333;
 }
 
@@ -34,14 +34,14 @@ h3 {
 }
 
 .nav-tabs>li.active>a {
-	background-color:#56c6ff;
-	border-color:#56c6ff;
+	background-color:#f1f1f1;
+	border-color:#f1f1f1;
 	cursor:initial;
 }
 
 #content {
 	padding:50px 0;
-	background:#56c6ff;
+	background:#f1f1f1;
 }
 
 #designer {
